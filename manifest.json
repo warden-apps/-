@@ -1,0 +1,20 @@
+{
+  "name": "筋道 · N3・N2 文法",
+  "short_name": "筋道",
+  "description": "JLPT N3 and N2 grammar, one small session a day — 日本語文法 SRS",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f0df",
+  "theme_color": "#f7f0df",
+  "icons": [
+    { "src": "icons/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" },
+    { "src": "icons/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any" },
+    { "src": "icons/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" },
+    { "src": "apple-touch-icon.png", "type": "image/png", "sizes": "180x180", "purpose": "any" },
+    { "src": "icons/icon-48.png", "type": "image/png", "sizes": "48x48", "purpose": "any" }
+  ]
+}
